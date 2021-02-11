@@ -10,7 +10,7 @@ biblio-style: apalike
 link-citations: yes
 cover-image: images/book-cover.jpg
 github-repo: rstudio/future-scenarios
-description: "A collection of future scenarios based on different themes and scenario archetypes"
+description: "A collection of future scenarios based on different themes and scenario archetypes."
 ---
 
 # Prerequisites {-}
