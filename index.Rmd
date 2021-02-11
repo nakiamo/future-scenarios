@@ -10,7 +10,7 @@ biblio-style: apalike
 link-citations: yes
 cover-image: images/book-cover.jpg
 github-repo: rstudio/future-scenarios
-description: "This book includes futures scenarios which were written by students of the Advertinig Projects Course"
+description: "A collection of future scenarios based on different themes and scenario archetypes"
 ---
 
 # Prerequisites {-}
